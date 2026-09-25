@@ -1,7 +1,7 @@
 streamlit
 ultralytics
 pennylane
-opencv-python
+opencv-python-headless
 pillow
 numpy
 plotly

@@ -1,0 +1,7 @@
+streamlit
+ultralytics
+pennylane
+opencv-python
+pillow
+numpy
+plotly
